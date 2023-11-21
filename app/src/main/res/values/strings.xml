@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">RecicleSmarth</string>
+
+    <!--- MAIN ACTIVITY -->
+    <string name="btnLogin">Iniciar</string>
+    <string name="btnRegistro">Registro</string>
+
+    <!-- REGISTRO -->
+    <string name="etNombre">Nombres</string>
+    <string name="etCorreo">Correo</string>
+    <string name="etPassword">Contraseña</string>
+    <string name="etConfContra">Confirmar contraseña</string>
+    <string name="btnRegistrar1">Registrar</string>
+
+    <!-- INICIAR SESIÓN -->
+    <string name="tvIniciarSesion">Iniciar sesión</string>
+    <string name="etCorreoSesion">Correo</string>
+    <string name="etPasswordSesion">Contraseña</string>
+    <string name="btnIngresarSesion">Ingresar</string>
+
+
+    <!-- LISTA -->
+    <!-- Nombre empresas -->
+    <string name="tvEmpresa1">Traperos de Emaús</string>
+    <string name="tvEmpresa2">Chilenter</string>
+    <string name="tvEmpresa3">Reciclapp</string>
+    <string name="tvEmpresa4">Hope Chile</string>
+
+    <!-- Tipo de retiro -->
+    <string name="tvRetiro1">Retiro a domicilio</string>
+
+    <string name="btnVerEmaus">Info</string>
+    <string name="btnVerChilenter">Info</string>
+    <string name="btnVerReciclapp">Info</string>
+    <string name="btnVerHope">Info</string>
+
+
+    <!-- DETALLES -->
+
+    <!-- Descripción empresas -->
+    <string name="tvDescripcion1">Recicla todo aparato eléctrico y electrónico</string>
+    <string name="tvDescripcion2">Computadores de escritorio y portátiles</string>
+    <string name="tvDescripcion3">Recicla aparatos electrónicos de hasta 50 cm</string>
+
+    <string name="btnLlamarEmaus">Llamar</string>
+    <string name="btnWebEmaus">Página</string>
+
+    <string name="btnLlamarChilenter">Llamar</string>
+    <string name="btnWebChilenter">Página</string>
+
+    <string name="btnLlamarReciclapp">Llamar</string>
+    <string name="btnWebReciclapp">Página</string>
+
+    <string name="btnLlamarHope">Llamar</string>
+    <string name="btnWebHope">Página</string>
+
+    <string name="btnRegresar">Regresar</string>
+
+</resources>

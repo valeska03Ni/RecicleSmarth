@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="aquablack">#44887F</string>
+    <string name="aqua">#16D1B6</string>
+</resources>
