@@ -26,7 +26,7 @@ public class IniciarActivity extends AppCompatActivity {
         btnIngresarSesion.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(IniciarActivity.this, ListaActivity.class));
+                startActivity(new Intent(IniciarActivity.this, ItemActivity.class));
             }
         });
     }

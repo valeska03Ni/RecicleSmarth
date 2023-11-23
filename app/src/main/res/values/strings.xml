@@ -54,6 +54,30 @@
     <string name="btnLlamarHope">Llamar</string>
     <string name="btnWebHope">Página</string>
 
+    <string name="btnRegresar2">Regresar</string>
+    <string name="btnRegresar3">Regresar</string>
+
+
+    <!-- Item -->
+    <string name="btnIrNoticia">Visitar</string>
+    <string name="btnIrEmpresas">Visitar</string>
+
+
+    <!-- Noticias -->
+    <string name="Noticia_1">¿Cómo se reciclan las pilas?</string>
+    <string name="Noticia_1_1">El reciclaje de las pilas permite volver a reutilizar hasta el 75% de los materiales con los que están fabricadas.</string>
+    <string name="Noticia_1_2">Una vez depositadas en los contenedores para reciclar pilas, son trasladadas a una planta de reciclaje donde el mercurio se separará del resto de los metales y materiales para ser recuperados.</string>
+    <string name="Noticia_1_3">Acá te indicamos 4 puntos claves del reciclaje de pilas:</string>
+    <string name="Noticia_1_4">- Las pilas son muy contaminantes y debemos evitar su uso siempre que podamos. La recomendación general es decantarse por pilas recargables.</string>
+    <string name="Noticia_1_5">- Las pilas deben reciclarse siempre y nunca deben tirarse a la basura ni al WC.</string>
+    <string name="Noticia_1_6">- Las pilas usadas no deben estar en contacto con las nuevas, ya que podrían dañarse.</string>
+    <string name="Noticia_1_7">- Todas las pilas deben reciclarse, independientemente de su tamaño y de sus componentes.</string>
+    <string name="Like_Noticia_1">Me gusta este artículo</string>
+
+
     <string name="btnRegresar">Regresar</string>
+
+
+
 
 </resources>

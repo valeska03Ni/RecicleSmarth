@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class ListaActivity extends AppCompatActivity {
-    private Button btnVerEmaus, btnVerChilenter, btnVerRecicleapp, btnVerHope;
+    private Button btnVerEmaus, btnVerChilenter, btnVerRecicleapp, btnVerHope, btnRegresar2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +26,14 @@ public class ListaActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent a = new Intent(ListaActivity.this, EmausActivity.class);
                 startActivity(a);
+            }
+        });
+
+        btnRegresar2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent f = new Intent(ListaActivity.this, ItemActivity.class);
+                startActivity(f);
             }
         });
 
@@ -60,5 +68,6 @@ public class ListaActivity extends AppCompatActivity {
         btnVerChilenter = findViewById(R.id.btnVerChilenter);
         btnVerRecicleapp = findViewById(R.id.btnVerRecicleapp);
         btnVerHope = findViewById(R.id.btnVerHope);
+        btnRegresar2 = findViewById(R.id.btnRegresar2);
     }
 }
